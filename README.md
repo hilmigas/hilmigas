@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helmi Sayed Suleiman</h1>
-<h3 align="center">I love Programming and i am learning more everyday trying to improve achieve my goals 🤩</h3>
+<h3 align="center">I love Programming and i am learning more everyday trying to improve to achieve my goals 🤩</h3>
 <img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524o59kg383wiqx831tlymjtsqt0l1cyvi3y1yoi4p&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="">
 
 - 🌱 I’m currently studying in **Istinye University**
