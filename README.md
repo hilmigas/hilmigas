@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying in **Istinye University**
 
-- ✈️ lived in [U+1F1F8 U+1F1FE U+1F1F8 U+1F1E6 U+1F1F9 U+1F1F7](U+1F1F8 U+1F1FE U+1F1F8 U+1F1E6 U+1F1F9 U+1F1F7)
+- ✈️ lived in <p>U+1F1F8 U+1F1F8 U+1F1F9](U+1F1F8 U+1F1F8 U+1F1F9)</p>
 
 - 📫 How to reach me **haloomy2002@gmail.com**
 
