@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying in **Istinye University**
 
-- ✈️ lived in [Syria, Saudi arabia, turkey](Syria, Saudi arabia, turkey)
+- ✈️ lived in ****Syria, Saudi arabia, turkey****
 
 - 📫 How to reach me **haloomy2002@gmail.com**
 
